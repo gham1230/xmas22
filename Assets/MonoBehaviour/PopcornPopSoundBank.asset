@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c03b510056c0eea686cf3974bc4c944, type: 3}
+  m_Name: PopcornPopSoundBank
+  m_EditorClassIdentifier:
+  sounds:
+  - {fileID: 8300000, guid: caa4c567499799345af54a4868ba8451, type: 3}
+  - {fileID: 8300000, guid: 0c804749ee0b1f942a44a8ae68fdf6a6, type: 3}
+  - {fileID: 8300000, guid: 35af00bdbac7e6e4293ba95c9df67d61, type: 3}
+  - {fileID: 8300000, guid: 58635e5f98f99204e864b79ff34afb08, type: 3}
+  - {fileID: 8300000, guid: b05feb67a9ef5db4d9646e34200f83ca, type: 3}
+  - {fileID: 8300000, guid: bc56f683f242c8245b69d7e333ddd805, type: 3}
+  - {fileID: 8300000, guid: ef429e93a3a922746a086b182c5473ad, type: 3}
+  - {fileID: 8300000, guid: a7f77e816d66ac8408b47cb411af785d, type: 3}
+  - {fileID: 8300000, guid: 5a2f467d6134f004e9bc912f2b633c28, type: 3}
+  - {fileID: 8300000, guid: 22d050cc24e66cd4bbe019fef927b345, type: 3}
+  - {fileID: 8300000, guid: 18edb64e29778fd469cc88d9eddeddf7, type: 3}
+  - {fileID: 8300000, guid: 4d1907f22e3a4c244b79a328c54874cf, type: 3}
+  - {fileID: 8300000, guid: 3da410429ed8301429594929c79ebc42, type: 3}
+  - {fileID: 8300000, guid: e795bd8cebdc39443b19ec450d7a9b30, type: 3}
+  - {fileID: 8300000, guid: 6cc22ae743460ab4c94faf2916a95a65, type: 3}
+  - {fileID: 8300000, guid: 4ce1c77bccb4f0e44936ed53b7a1b6ef, type: 3}
+  - {fileID: 8300000, guid: 90afad63d9f05544a945cead932fcc45, type: 3}
+  - {fileID: 8300000, guid: 5fccaecbc0b3a5e4484e3e0093dd9a77, type: 3}
+  - {fileID: 8300000, guid: 174491bd4d8d78147b770d0898f6f959, type: 3}
+  volumeRange: {x: 0.4, y: 0.6}
+  pitchRange: {x: 0.8, y: 1.2}

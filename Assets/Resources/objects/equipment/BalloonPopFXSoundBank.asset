@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c03b510056c0eea686cf3974bc4c944, type: 3}
+  m_Name: BalloonPopFXSoundBank
+  m_EditorClassIdentifier:
+  sounds:
+  - {fileID: 8300000, guid: e937bff4a32a33b4ab7b0376551583ed, type: 3}
+  - {fileID: 8300000, guid: 2c9e6b269ed74c34285e16dbc9b4a00e, type: 3}
+  - {fileID: 8300000, guid: f421671c6fb092c4484af9b605545cc7, type: 3}
+  volumeRange: {x: 0.5, y: 0.5}
+  pitchRange: {x: 1, y: 1}
